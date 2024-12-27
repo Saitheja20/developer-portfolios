@@ -660,6 +660,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sai Teja](https://saiteja13427.github.io)
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
+- [Saitheja Komalla](https://saitheja20.github.io/Portfolio/)
 - [Saksham Agarwal](https://skshamagarwal.github.io/)
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Sam Foreman](https://samforeman.me) \[Computational Scientist\]
